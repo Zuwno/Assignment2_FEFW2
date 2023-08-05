@@ -1,0 +1,29 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Car A",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "name": "Car B",
+      "price": 200
+    },
+    {
+      "id": 3,
+      "name": "Car M",
+      "price": 300
+    }
+  ],
+  "users": [],
+  "products": [
+    {
+      "name": "Product D  ",
+      "price": "300",
+      "description": "Sản phẩm D",
+      "images": "https://picsum.photos/id/2/500/600",
+      "id": 5
+    }
+  ]
+}
